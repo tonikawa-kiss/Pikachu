@@ -15,12 +15,12 @@
     "start": "node --max-old-space-size=4096 src/krypton.js"
   },
   "bugs": {
-    "url": "https://github.com/tonikawa-kiss/Pikachu/issues"
+    "url": "https://github.com/Debanjan-San/krypton-WhatsappBot/issues"
   },
-  "homepage": "https://github.com/tonikawa-kiss/Pikachu",
+  "homepage": "https://github.com/Debanjan-San/krypton-WhatsappBot",
   "repository": {
     "type": "git",
-    "url": "https://github.com/tonikawa-kiss/Pikachu.git"
+    "url": "https://github.com/Debanjan-San/krypton-WhatsappBot.git"
   },
   "dependencies": {
     "@adiwajshing/baileys": "^4.4.0",
